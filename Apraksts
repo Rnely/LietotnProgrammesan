@@ -1,1 +1,11 @@
+Sveiki!
 
+Spēles nosaukums: Get away - don't get killed
+Spēles apraksts: Single player 2D world based spēle, kur galvenajā
+lomā ir spēlētājs (lietotājs), izvēlēties spēles varoni var spēles laikā.
+Spēlētāja uzdevums ir iziet spēli un saņemt sasniegumu par spēles iziešanu.
+Spēle sastāv no vairākiem chapteriem (etapiem). Uz katru nākamo chapteri var
+tikt izejot esošo. 
+Spēles laikā Jūs gaidīs pārbaudījumi, parkours, bossi, dažādi ieroči. Protams - kā
+jau jebkurā normālā spēlē, šeit būs dzīvību līmeņi (100hp) kā arī ieročiem un briesmoņiem
+būs atsķirīgas stipruma pakāpes.
