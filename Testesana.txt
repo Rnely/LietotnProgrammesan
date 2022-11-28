@@ -1,0 +1,15 @@
+Test Cases For Our Game:
+
+1.Functionality Test Case:
+  Movement Test (Test for movement (arrow) keys)
+  Attacking Test (Test for firing (space) key)
+  Score rating Test (Tests for checking if score goes up when playing)
+  Gameplay Test (Tests for checking if enemies die or if you die if got shot)
+  
+2.Performance Test Case:
+  Launcher Test (Test for main file to check if it's launching properly)
+  Bug Test (Test for errors in code or while in gameplay)
+  Lag Tests (Tests for visual tearing/lagging while in gameplay)
+  
+3. Usability Test Case:
+  Compatibility (Test for compatibility or things you need to launch our game)
