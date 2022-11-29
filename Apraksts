@@ -1,6 +1,7 @@
 Nosaukums: Galaktikas Cīņas 0.1
 Tips: Spēle
 OS: Win7 - Win 11, MacOS, Linux
+Requirements: Python 3, pygame package
 
 Spēles apraksts:
 Pazudušais kosmosa kuģis ceļo galaktikā, savā ceļā sastopot meteorītus un galaktikas parazītus ar kuriem Jums jācīnās!
